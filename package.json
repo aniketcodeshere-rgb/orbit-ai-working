@@ -1,0 +1,9 @@
+{
+  "name": "orbit-ai-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gemini-powered AI study and productivity agent mini project",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
